@@ -1,4 +1,4 @@
-# SQL Layoffs Data Cleaning Project
+# SQL Layoffs Data Cleaning and EDA Project
 
 This project focuses on cleaning and preparing a layoffs dataset using **SQL**.  
 
