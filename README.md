@@ -17,7 +17,6 @@ This project focuses on cleaning and preparing a layoffs dataset using **SQL**.
 
 ## Files
 - `layoffs_cleaning.sql` → Contains all SQL queries for cleaning
-- `data/layoffs.csv` → (Optional) Raw dataset
 
 ## How to Use
 1. Import the dataset into MySQL.
